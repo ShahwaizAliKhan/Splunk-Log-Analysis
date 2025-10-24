@@ -49,7 +49,7 @@
 
 <hr>
 
-<h3>🔹 Step 5: Visualization Dashboards</h3>
+<h3>🔹 Visualization Dashboards</h3>
 <p>Created Splunk dashboards to visualize DNS activity, including top queried domains, source IPs, and response code distribution.</p>
 <p><i>Top Queried Domains:</i></p>
 <img src="https://github.com/ShahwaizAliKhan/Splunk-Log-Analysis/blob/main/DNS%20log%20analysis/Screenshot%202025-10-24%20182826.png?raw=true" alt="Dashboard Screenshot" width="700">
@@ -65,7 +65,7 @@
 
 <hr>
 
-<h3>🔹 Step 6: Threat Detection Alerts</h3>
+<h3>🔹 Threat Detection Alerts</h3>
 <p>Configured Splunk alerts to automatically detect abnormal DNS behavior, such as repeated NXDOMAIN responses or unusual record types.</p>
 <p><i>Screenshot:</i></p>
 <img src="https://github.com/ShahwaizAliKhan/Splunk-Log-Analysis/blob/main/DNS%20log%20analysis/Screenshot%202025-10-24%20182736.png?raw=true" alt="Alert Screenshot" width="700">
