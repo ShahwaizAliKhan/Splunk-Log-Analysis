@@ -5,7 +5,7 @@
 <hr>
 
 <h3>🔹 Field Extraction</h3>
-<p>Extracted important fields such as timestamp, source IP, destination IP, protocol, query, and response code using Splunk’s field extraction feature.</p>
+<p>Extracted important fields such as source IP, destination IP, protocol, query, and response code using Splunk’s field extraction feature.</p>
 <p><i>Screenshot:</i></p>
 <img src="https://github.com/ShahwaizAliKhan/Splunk-Log-Analysis/blob/main/DNS%20log%20analysis/Screenshot%202025-10-22%20143552.png?raw=true" alt="Field Extraction Screenshot" width="700">
 <img src="https://github.com/ShahwaizAliKhan/Splunk-Log-Analysis/blob/main/DNS%20log%20analysis/Screenshot%202025-10-22%20143921.png?raw=true" alt="Field Extraction Screenshot" width="700">
