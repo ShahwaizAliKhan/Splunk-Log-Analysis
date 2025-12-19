@@ -1,4 +1,4 @@
-<h2>🧠 DNS Log Analysis using Splunk</h2>
+<h1>🧠 DNS Log Analysis using Splunk</h1>
 
 <p>This project focuses on analyzing DNS logs using Splunk to detect anomalies, failed lookups, and suspicious network behavior. Below are the key steps performed during the analysis process.</p>
 
